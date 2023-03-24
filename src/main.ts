@@ -30,3 +30,4 @@
 // import './07_其它/02_内置对象'
 
 document.write('Hello Webpack TS!')
+console.log(111)
